@@ -1,0 +1,14 @@
+
+
+.TicketNum{
+    font-size: 3rem;
+}
+
+.TicketNum {
+    display: inline-block;
+    margin: 0 5px;
+    padding: 10px;
+    background-color: #4caf50;
+    color: #fff;
+    border-radius: 4px;
+  }

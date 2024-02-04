@@ -1,0 +1,20 @@
+.Lottery {
+    text-align: center;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  .Ticket {
+    margin-top: 20px;
+  }
+
+  h3{
+    color: #000000;
+  }
+  
